@@ -164,7 +164,7 @@ INSERT INTO product_attribute (product_id, attribute_type_id, attribute_category
 (1, 1, 1, 'Material', 'Mesh'),
 (2, 2, 2, 'Battery Life', '24');
 
--- product_image
 INSERT INTO product_image (product_id, image_url) VALUES
-(1, 'https://example.com/images/airmax.png'),
-(2, 'https://example.com/images/galaxys21.png');
+(1, 'https://unsplash.com/photos/white-nike-air-max-sneakers-lo4Xf1ezaQA'),
+(2, 'https://unsplash.com/photos/a-cell-phone-is-flying-through-the-air-m82jt07HZEg');
+
